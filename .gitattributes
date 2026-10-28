@@ -1,0 +1,6 @@
+* text=auto
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.sql text eol=lf
+drivers/wifi/43430r0nvram.txt -text

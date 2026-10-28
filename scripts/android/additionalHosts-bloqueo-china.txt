@@ -1,0 +1,35 @@
+# --- Telemetria china de apps preinstaladas de Onda (JUI) ---
+# Umeng (Alibaba)
+*.umeng.com
+*.umeng.co
+*.umengcloud.com
+*.umsns.com
+# Eaglenet (JUI launcher / filemanager)
+*.eaglenet.cn
+# Getui (push)
+*.igexin.com
+*.getui.com
+*.gepush.com
+# Pada (tienda china)
+*.pada.cc
+# UC / Shenma / Taobao (estadisticas del launcher)
+*.uc.cn
+*.sm.cn
+w.m.taobao.com
+# Otros detectados en el launcher/filemanager
+*.atuyou.com
+*.awbase.com
+# Dominios base (incluye subdominios)
+umeng.com
+umeng.co
+umengcloud.com
+umsns.com
+eaglenet.cn
+igexin.com
+getui.com
+gepush.com
+pada.cc
+uc.cn
+sm.cn
+atuyou.com
+awbase.com

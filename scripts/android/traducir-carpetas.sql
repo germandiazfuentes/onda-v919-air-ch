@@ -1,0 +1,16 @@
+UPDATE favorites SET title='Mapas' WHERE _id=19;
+UPDATE favorites SET title='Internet' WHERE _id=24;
+UPDATE favorites SET title='Música y vídeo' WHERE _id=41;
+UPDATE favorites SET title='Descargas' WHERE _id=62;
+UPDATE favorites SET title='Juegos' WHERE _id=71;
+UPDATE favorites SET title='Herramientas' WHERE _id=79;
+UPDATE favorites SET title='Mapas' WHERE _id=20;
+UPDATE favorites SET title='Navegación' WHERE _id=21;
+UPDATE favorites SET title='Sitios' WHERE _id=22;
+UPDATE favorites SET title='Noticias y tiempo' WHERE _id=36;
+UPDATE favorites SET title='Play Música' WHERE _id=47;
+UPDATE favorites SET title='Play Store' WHERE _id=63;
+UPDATE favorites SET title='Descargas' WHERE _id=66;
+UPDATE favorites SET title='Play Juegos' WHERE _id=78;
+UPDATE favorites SET title='Ajustes de Google' WHERE _id=87;
+SELECT _id, title FROM favorites WHERE _id IN (19,24,41,62,71,79,20,21,22,36,47,63,66,78,87);

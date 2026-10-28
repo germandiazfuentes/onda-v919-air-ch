@@ -1,0 +1,10 @@
+# Credenciales y registros locales: nunca al repositorio
+soporte-cred.xml
+*.pw
+*.log
+informe-windows-*/
+copia-drivers/
+*.apk
+*.rar
+*.iso
+*.wim
