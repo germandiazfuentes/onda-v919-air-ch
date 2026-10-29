@@ -68,4 +68,9 @@ Segunda pasada: 5 más (paquetes de idioma de .NET, Defender, preparación de li
 
 Los tres se actualizan solos después.
 
+## Dual boot tras la actualización
+
+La actualización a 22H2 **no afecta al dual boot**. Después de todo el proceso (22H2, actualizaciones acumulativas y
+limpieza), `WinToAnd.exe` sigue reiniciando en Android, y Android arranca y funciona con normalidad.
+
 Siguiente: [8. Administración remota](08-administracion-remota.md)
